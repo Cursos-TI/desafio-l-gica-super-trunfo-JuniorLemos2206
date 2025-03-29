@@ -11,7 +11,7 @@ int main() {
         float area, pib;
         char cidade[20];
 
-         //Usuário 01 irá digitar a cidade.
+         //Usuário 01 irá digitar a cidade. 
          printf("Digite a cidade Carta 01: ");
          scanf("%s", &cidade);
          printf("cidade: %s\n", cidade);
